@@ -1,0 +1,28 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"All Autocomplete",
+		"Autoprefixer",
+		"BracketHighlighter",
+		"Color Highlighter",
+		"CSS3",
+		"DocBlockr",
+		"GitGutter",
+		"INI",
+		"jQuery",
+		"JSON Reindent",
+		"Markdown Preview",
+		"MarkdownEditing",
+		"Package Control",
+		"Sass",
+		"Smarty",
+		"Theme - itg.flat",
+		"Theme - Spacegray",
+		"TypeScript"
+	]
+}
