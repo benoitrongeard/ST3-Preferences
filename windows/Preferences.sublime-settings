@@ -1,0 +1,21 @@
+{
+	"color_scheme": "Packages/Theme - Spacegray/base16-ocean.dark.tmTheme",
+	"enable_tab_scrolling": false,
+	"ensure_newline_at_eof_on_save": true,
+	"font_size": 9,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"spacegray_fileicons": true,
+	"spacegray_sidebar_font_large": true,
+	"spacegray_sidebar_font_normal": true,
+	"spacegray_sidebar_tree_normal": true,
+	"spacegray_tabs_auto_width": true,
+	"spacegray_tabs_font_normal": true,
+	"spacegray_tabs_xlarge": true,
+	"theme": "Spacegray.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"word_wrap": "false"
+}
